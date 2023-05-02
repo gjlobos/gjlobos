@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, my name is Gustavo Lobos 👋
+
+
+### Skills:
+
 
 
 
