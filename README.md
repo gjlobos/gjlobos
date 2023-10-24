@@ -1,4 +1,5 @@
-# 👋🏻 &nbsp;&nbsp;Hi there, I am Gustavo. I live in Argentina 🇦🇷, a beautiful country that you have to visit.
+# 👋🏻 &nbsp;&nbsp;Hi there, I am Gustavo. 
+# I live in Argentina 🇦🇷, a beautiful country that you have to visit. 
 
 
 ### Skills:
