@@ -41,8 +41,25 @@
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="PowerBI">&nbsp;&nbsp;
 </p>
 
+###
 
+##
 
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gjlobos&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+##
+
+###
+
+<div align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gjlobos" alt="itsarisid" /></a>
+</div>
+
+###
 
 
 <!--
