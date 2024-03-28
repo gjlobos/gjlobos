@@ -8,7 +8,7 @@
 - I live in Argentina 🇦🇷, a beautiful country. Come and visit it!!
 
 
-### 🎯 &nbsp;&nbsp;Some technologies I use:
+## 🎯 &nbsp;&nbsp;Some technologies I use:
 <p align="center">
   <img src="https://img.shields.io/badge/Apple-gray?style=for-the-badge&logo=apple&logoColor=white" alt="apple" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="">&nbsp;&nbsp;
@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="PowerBI">&nbsp;&nbsp;
 </p>
 
-###
+##
 
 ##
 
