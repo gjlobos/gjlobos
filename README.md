@@ -1,5 +1,14 @@
-# 👋🏻 &nbsp;&nbsp;Hi there, I am Gustavo. 
-# I live in Argentina 🇦🇷, a beautiful country. Come and visit it!! 
+#
+👋🏻 &nbsp;&nbsp;Hi there, I am Gustavo. 
+#
+
+##
+- I'm a senior Engineer who decided to switch to a Java Backend Developer 3 years ago.
+- I'm a continuous learner, always aiming to learn new technologies. 
+- With experience in team leadership and collaboration.
+- Willing to solve problems with creativity and critical thinking.
+- I live in Argentina 🇦🇷, a beautiful country. Come and visit it!!
+##
 
 ### 🎯 &nbsp;&nbsp;Some technologies I use:
 <p align="center">
