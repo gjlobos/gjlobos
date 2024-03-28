@@ -1,5 +1,4 @@
-#
-👋🏻 &nbsp;&nbsp;Hi there, I am Gustavo. 
+#👋🏻 &nbsp;&nbsp;Hi there, I am Gustavo. 
 
 ##
 - I'm a senior Engineer who decided to switch to a Java Backend Developer 3 years ago.
